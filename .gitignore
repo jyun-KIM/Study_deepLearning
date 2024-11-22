@@ -2,3 +2,6 @@ __pycache__/
 .DS_Store
 *.pyc
 .ipynb_checkpoints/
+
+# 가상환경
+/venv 

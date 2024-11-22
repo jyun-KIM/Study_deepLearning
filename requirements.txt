@@ -1,0 +1,4 @@
+networks==0.3.7
+numpy==2.0.2
+matplotlib==3.9.2
+tensorflow==2.18.0
